@@ -1,6 +1,7 @@
 {
   "name": "chatapp",
   "version": "1.0.0",
+  "type": "module", 
   "main": "server.js",
   "scripts": {
     "server": "node be/server.js"
